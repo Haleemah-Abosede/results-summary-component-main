@@ -150,19 +150,19 @@
     footer a { color: hsl(228, 45%, 44%); }
 
     @media(max-width:1024px) {
-      .all{
+      main{
         width: 70%;
       }
     }
 
     @media(max-width:768px) {
-      .all{
+      main{
         width: 85%;
       }
     }
 
     @media(max-width:425px) {
-      .all{
+      main{
         flex-direction: column;
         width: 100%;
         margin-top: 0;
