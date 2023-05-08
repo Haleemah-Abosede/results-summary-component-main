@@ -46,7 +46,7 @@ I used basic CSS flexbox and custom propeties to manipulate the two components.
 
 ## Author
 
-- - Frontend Mentor - [@Haleemah_Abosede](https://www.frontendmentor.io/profile/Haleemah_Abosede)
+- Frontend Mentor - [@Haleemah_Abosede](https://www.frontendmentor.io/profile/Haleemah_Abosede)
 - Twitter - [@pharm_Haleemah](https://www.twitter.com/pharm_Haleemah)
 
 
